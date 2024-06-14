@@ -1,0 +1,15 @@
+django
+djangorestframework
+ratelimit
+django_crontab
+mysqlclient
+captcha
+pyecharts
+pymysql
+mysql-connector-python
+psutil
+scapy
+# require C++ environment
+netifaces
+python-nmap
+beautifulsoup4
